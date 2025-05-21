@@ -13,7 +13,11 @@ Tap on a to-do to select it, check the checkbox, and strike through the text to 
 🌟 Screenshots:
 
 ![Simulator Screenshot - iPhone 15 Pro - 2025-05-21 at 16 46 31](https://github.com/user-attachments/assets/9d2a3908-f230-4f81-b4d1-8f21206ccea9)
+
+
 ![Simulator Screenshot - iPhone 15 Pro - 2025-05-21 at 16 50 51](https://github.com/user-attachments/assets/b0ca9111-4e71-4459-ba88-b00152d28e74)
+
+
 ![Simulator Screenshot - iPhone 15 Pro - 2025-05-21 at 16 51 54](https://github.com/user-attachments/assets/1920ed13-8cac-4742-8b8b-204f03d1c3f8)
 
 
