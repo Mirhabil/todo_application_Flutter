@@ -12,9 +12,6 @@ Mark To-Dos as Completed ✅
 Tap on a to-do to select it, check the checkbox, and strike through the text to mark it as completed. ✔️
 🌟 Screenshots:
 
-<img src="https://github.com/user-attachments/assets/f25f0b28-371b-4c81-be6b-7b6da5b75647" width="600" />
-![Simulator Screenshot - iPhone 15 Pro - 2025-05-21 at 16 50 51](https://github.com/user-attachments/assets/3b6f1e7d-1447-407b-81d6-9b3ca98dc95f)
-![Simulator Screenshot - iPhone 15 Pro - 2025-05-21 at 16 51 54](https://github.com/user-attachments/assets/a0cc4c8f-987d-4eec-a7cd-d0a3b916d805)
 
 
 Here’s what the app looks like:
